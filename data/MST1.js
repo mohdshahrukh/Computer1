@@ -96,10 +96,10 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-OptionImage": "MST1/1.JPG"
+                "-OptionImage": "MST1/1.jpg"
               },
 			  {
-                "-OptionImage": "MST1/2.JPG"
+                "-OptionImage": "MST1/2.jpg"
               }
             ]
           }
@@ -197,10 +197,10 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-OptionImage": "MST1/3.JPG"
+                "-OptionImage": "MST1/3.jpg"
               },
 			  {
-                "-OptionImage": "MST1/4.JPG"
+                "-OptionImage": "MST1/4.jpg"
               }
             ]
           }
@@ -295,7 +295,7 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-OptionImage": "MST1/5.JPG"
+                "-OptionImage": "MST1/5.jpg"
               }
             ]
           }
@@ -566,13 +566,10 @@ var data= {
                 "-Question": "1.\t _____ maintains a continuous supply of electricity.\r\n\t(a) CPU      (b) UPS     (c) monitor\r\n"
               },
               {
-                "-OptionImage": "MST1/63.JPG"
+                "-Question": "2.\tStart button can be seen at the _____ of screen.\n\t(a) top      (b) bottom   (c) left\n"
               },
               {
-                "-Question": "3.\tStart button can be seen at the _____ of screen.\n\t(a) top      (b) bottom   (c) left\n"
-              },
-              {
-                "-Question": "4.\tUse _____ cloth to remove the dust from computer.\n\t(a) wet      (b) dry   (c) sticky\n"
+                "-Question": "3.\tUse _____ cloth to remove the dust from computer.\n\t(a) wet      (b) dry   (c) sticky\n"
               }
             ]
           },

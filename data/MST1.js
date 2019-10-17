@@ -8,7 +8,27 @@ var data= {
         "-Heading": "Multiple Choice Questions",
         "Cluster": [
           
+          
           {
+            "-QType": "FillUp",
+            "-Heading": "Tick the correct option.",
+            "-defaultMark": "1",
+            "item": [
+              {
+                "-Question": "1.\tMachine are __________ things.\n\t(a) natural      (b) man-made     (c) magical\r\n"
+              },
+              {
+                "-Question": "2.\tA computer runs on __________.\n\t(a) fuel      (b) electricity    (c) human power\n"
+              },
+              {
+                "-Question": "3.\tWhich machine provides us fresh and cool air?\n\t(a) Refrigerator      (b) Air conditioner   (c) Bicycle\n"
+              },
+              {
+                "-Question": "4.\tA __________ is a computer we keep on a table.\n\t(a) Desktop      (b) Laptop   (c) Mobile phone\n"
+              }
+            ]
+          },
+		  {
             "-QType": "FillUp",
             "-Heading": "Fill in the blanks:",
             "-defaultMark": "1",
@@ -54,25 +74,6 @@ var data= {
           },
           {
             "-QType": "FillUp",
-            "-Heading": "Tick the correct option.",
-            "-defaultMark": "1",
-            "item": [
-              {
-                "-Question": "1.\tMachine are __________ things.\n\t(a) natural      (b) man-made     (c) magical\r\n"
-              },
-              {
-                "-Question": "2.\tA computer runs on __________.\n\t(a) fuel      (b) electricity    (c) human power\n"
-              },
-              {
-                "-Question": "3.\tWhich machine provides us fresh and cool air?\n\t(a) Refrigerator      (b) Air conditioner   (c) Bicycle\n"
-              },
-              {
-                "-Question": "4.\tA __________ is a computer we keep on a table.\n\t(a) Desktop      (b) Laptop   (c) Mobile phone\n"
-              }
-            ]
-          },
-          {
-            "-QType": "FillUp",
             "-Heading": "Answer the following questions.",
             "-defaultMark": "5",
             "item": [
@@ -96,10 +97,10 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-OptionImage": "MST1/1.jpg"
+                "-OptionImage": "MST1/1.JPG"
               },
 			  {
-                "-OptionImage": "MST1/2.jpg"
+                "-OptionImage": "MST1/2.JPG"
               }
             ]
           }
@@ -197,10 +198,10 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-OptionImage": "MST1/3.jpg"
+                "-OptionImage": "MST1/3.JPG"
               },
 			  {
-                "-OptionImage": "MST1/4.jpg"
+                "-OptionImage": "MST1/4.JPG"
               }
             ]
           }

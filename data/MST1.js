@@ -112,6 +112,26 @@ var data= {
         "Cluster": [
           {
             "-QType": "FillUp",
+            "-Heading": "Tick the correct option.",
+            "-defaultMark": "1",
+            "item": [
+              {
+                "-Question": "1.\tA monitor looks like a:\r\n\t(a) mouse      (b) television     (c) typewriter\r\n"
+              },
+              {
+                "-Question": "2.\tIt is the brain of the computer.\n\t(a) CPU      (b) UPS    (c) Monitor\n"
+              },
+              {
+                "-Question": "3.\tThis is used to print our work on paper.\n\t(a) Speakers      (b) Mouse   (c) Printer\n"
+              },
+              {
+                "-Question": "4.\tIt keeps the computer ON even if the electricity goes OFF.\n\t(a) CPU      (b) UPS   (c) Mouse\n"
+              }
+            ]
+          },
+          
+		  {
+            "-QType": "FillUp",
             "-Heading": "Fill in the blanks:",
             "-defaultMark": "1",
             "item": [
@@ -156,25 +176,6 @@ var data= {
           },
           {
             "-QType": "FillUp",
-            "-Heading": "Tick the correct option.",
-            "-defaultMark": "1",
-            "item": [
-              {
-                "-Question": "1.\tA monitor looks like a:\r\n\t(a) mouse      (b) television     (c) typewriter\r\n"
-              },
-              {
-                "-Question": "2.\tIt is the brain of the computer.\n\t(a) CPU      (b) UPS    (c) Monitor\n"
-              },
-              {
-                "-Question": "3.\tThis is used to print our work on paper.\n\t(a) Speakers      (b) Mouse   (c) Printer\n"
-              },
-              {
-                "-Question": "4.\tIt keeps the computer ON even if the electricity goes OFF.\n\t(a) CPU      (b) UPS   (c) Mouse\n"
-              }
-            ]
-          },
-          {
-            "-QType": "FillUp",
             "-Heading": "Answer the following questions.",
             "-defaultMark": "5",
             "item": [
@@ -211,6 +212,26 @@ var data= {
         "-ChapterName": "Uses of Computers",
         "-Heading": "Answer the following.",
         "Cluster": [
+		{
+            "-QType": "FillUp",
+            "-Heading": "Tick the correct option.",
+            "-defaultMark": "1",
+            "item": [
+              {
+                "-Question": "1.\tComputer are used to:\n\t(a) play games      (b) watch movies     (c) both of these\r\n"
+              },
+              {
+                "-Question": "2.\tA computer is used to listen to:\n\t(a) pictures      (b) music    (c) games\n"
+              },
+              {
+                "-Question": "3.\tTeachers use computers to make:\n\t(a) bills      (b) letters   (c) report cards\n"
+              },
+              {
+                "-Question": "4.\tComputers are used to keep records of :\n\t(a) flights      (b) doctors   (c) letters\n"
+              }
+            ]
+          },
+         
           {
             "-QType": "FillUp",
             "-Heading": "Fill in the blanks:",
@@ -255,26 +276,7 @@ var data= {
               }
             ]
           },
-          {
-            "-QType": "FillUp",
-            "-Heading": "Tick the correct option.",
-            "-defaultMark": "1",
-            "item": [
-              {
-                "-Question": "1.\tComputer are used to:\n\t(a) play games      (b) watch movies     (c) both of these\r\n"
-              },
-              {
-                "-Question": "2.\tA computer is used to listen to:\n\t(a) pictures      (b) music    (c) games\n"
-              },
-              {
-                "-Question": "3.\tTeachers use computers to make:\n\t(a) bills      (b) letters   (c) report cards\n"
-              },
-              {
-                "-Question": "4.\tComputers are used to keep records of :\n\t(a) flights      (b) doctors   (c) letters\n"
-              }
-            ]
-          },
-          {
+           {
             "-QType": "FillUp",
             "-Heading": "Answer the following questions.",
             "-defaultMark": "5",
@@ -306,6 +308,26 @@ var data= {
         "-ChapterName": "Know the Keyboard",
         "-Heading": "Answer the following.",
         "Cluster": [
+		{
+            "-QType": "FillUp",
+            "-Heading": "Tick the correct option.",
+            "-defaultMark": "1",
+            "item": [
+              {
+                "-Question": "1.\tTo type your name, you will press the :\r\n\t(a) alphabet keys      (b) number keys     (c) delete key\r\n"
+              },
+              {
+                "-Question": "2.\tWhich key moves the cursor to the next line?\n\t(a) Delete      (b) Space bar    (c) Enter\n"
+              },
+              {
+                "-Question": "3.\tThe _____ key erases anything typed to the left of the cursor.\n\t(a) Backspace      (b) Enter   (c) Delete\n"
+              },
+              {
+                "-Question": "4.\t _____ keys are used to move the cursor in different directions.\n\t(a) Alphabet      (b) Arrow   (c) Number\n"
+              }
+            ]
+          },
+          
           {
             "-QType": "FillUp",
             "-Heading": "Fill in the blanks:",
@@ -352,25 +374,6 @@ var data= {
           },
           {
             "-QType": "FillUp",
-            "-Heading": "Tick the correct option.",
-            "-defaultMark": "1",
-            "item": [
-              {
-                "-Question": "1.\tTo type your name, you will press the :\r\n\t(a) alphabet keys      (b) number keys     (c) delete key\r\n"
-              },
-              {
-                "-Question": "2.\tWhich key moves the cursor to the next line?\n\t(a) Delete      (b) Space bar    (c) Enter\n"
-              },
-              {
-                "-Question": "3.\tThe _____ key erases anything typed to the left of the cursor.\n\t(a) Backspace      (b) Enter   (c) Delete\n"
-              },
-              {
-                "-Question": "4.\t _____ keys are used to move the cursor in different directions.\n\t(a) Alphabet      (b) Arrow   (c) Number\n"
-              }
-            ]
-          },
-          {
-            "-QType": "FillUp",
             "-Heading": "Answer the following questions.",
             "-defaultMark": "5",
             "item": [
@@ -407,11 +410,37 @@ var data= {
         "-ChapterName": "Know the Mouse",
         "-Heading": "Answer the following.",
         "Cluster": [
-          {
+		{
+            "-QType": "FillUp",
+            "-Heading": "Tick the correct option.",
+            "-defaultMark": "1",
+            "item": [
+         
+              {
+                "-Question": "1.\tA mouse is used to:\r\n\t(a) point and select items      (b) draw pictures     (c) both (a) and (b)\r\n"
+              },
+              {
+                "-Question": "2.\tA computer mouse has _____ buttons.\n\t(a) no      (b) one    (c) two\n"
+              },
+              {
+                "-Question": "3.\tThe small arrow on the monitor is called :\n\t(a) tail      (b) wire   (c) pointer\n"
+              },
+              {
+                "-Question": "4.\tWhich of the following is used to select an item?\n\t(a) Left-click      (b) Double-click   (c) Drag-and-drop\n"
+              },
+              {
+                "-Question": "5.\tIt shows a list of things one can do.\n\t(a) Left-click      (b) Double-click   (c) Right-click\n"
+              }
+            ]
+          }, 
+		  {
             "-QType": "FillUp",
             "-Heading": "Fill in the blanks:",
             "-defaultMark": "1",
             "item": [
+			
+		  
+          
               {
                 "-Question": "1.\tA _______ is a special seat for a computer mouse."
               },
@@ -448,28 +477,6 @@ var data= {
               },
               {
                 "-Question": "5.\tA right-click shows a list of things you can do.\t\t\t\t______"
-              }
-            ]
-          },
-          {
-            "-QType": "FillUp",
-            "-Heading": "Tick the correct option.",
-            "-defaultMark": "1",
-            "item": [
-              {
-                "-Question": "1.\tA mouse is used to:\r\n\t(a) point and select items      (b) draw pictures     (c) both (a) and (b)\r\n"
-              },
-              {
-                "-Question": "2.\tA computer mouse has _____ buttons.\n\t(a) no      (b) one    (c) two\n"
-              },
-              {
-                "-Question": "3.\tThe small arrow on the monitor is called :\n\t(a) tail      (b) wire   (c) pointer\n"
-              },
-              {
-                "-Question": "4.\tWhich of the following is used to select an item?\n\t(a) Left-click      (b) Double-click   (c) Drag-and-drop\n"
-              },
-              {
-                "-Question": "5.\tIt shows a list of things one can do.\n\t(a) Left-click      (b) Double-click   (c) Right-click\n"
               }
             ]
           },
@@ -514,6 +521,23 @@ var data= {
         "-ChapterName": "Using Computers The Right Way",
         "-Heading": "Answer the following.",
         "Cluster": [
+		 {
+            "-QType": "FillUp",
+            "-Heading": "Tick the correct option.",
+            "-defaultMark": "1",
+            "item": [
+              {
+                "-Question": "1.\t _____ maintains a continuous supply of electricity.\r\n\t(a) CPU      (b) UPS     (c) monitor\r\n"
+              },
+              {
+                "-Question": "2.\tStart button can be seen at the _____ of screen.\n\t(a) top      (b) bottom   (c) left\n"
+              },
+              {
+                "-Question": "3.\tUse _____ cloth to remove the dust from computer.\n\t(a) wet      (b) dry   (c) sticky\n"
+              }
+            ]
+          },
+          
           {
             "-QType": "FillUp",
             "-Heading": "Fill in the blanks:",
@@ -558,23 +582,7 @@ var data= {
               }
             ]
           },
-          {
-            "-QType": "FillUp",
-            "-Heading": "Tick the correct option.",
-            "-defaultMark": "1",
-            "item": [
-              {
-                "-Question": "1.\t _____ maintains a continuous supply of electricity.\r\n\t(a) CPU      (b) UPS     (c) monitor\r\n"
-              },
-              {
-                "-Question": "2.\tStart button can be seen at the _____ of screen.\n\t(a) top      (b) bottom   (c) left\n"
-              },
-              {
-                "-Question": "3.\tUse _____ cloth to remove the dust from computer.\n\t(a) wet      (b) dry   (c) sticky\n"
-              }
-            ]
-          },
-          {
+         {
             "-QType": "FillUp",
             "-Heading": "Answer the following questions.",
             "-defaultMark": "5",
@@ -609,6 +617,26 @@ var data= {
         "-ChapterName": "Fun with Paint",
         "-Heading": "Answer the following.",
         "Cluster": [
+		{
+            "-QType": "FillUp",
+            "-Heading": "Tick the correct option.",
+            "-defaultMark": "1",
+            "item": [
+              {
+                "-Question": "1.\tWhere do you make drawings in Paint?\r\n\t(a) Colors group      (b) Ribbon     (c) Drawing Area\r\n"
+              },
+              {
+                "-Question": "2.\tRibbon has _____ tabs.\n\t(a) one      (b) two    (c) three\n"
+              },
+              {
+                "-Question": "3.\tTo draw a circle, we use the:\n\t(a) Line tool      (b) Pencil tool   (c) Oval tool\n"
+              },
+              {
+                "-Question": "4.\t _____ key is used to draw a perfect square.\n\t(a) Ctrl      (b) Shift   (c) Enter\n"
+              }
+            ]
+          },
+          
           {
             "-QType": "FillUp",
             "-Heading": "Fill in the blanks:",
@@ -650,25 +678,6 @@ var data= {
               },
               {
                 "-Question": "5.\tTo start Paint, click on All Apps first.\t\t\t\t______"
-              }
-            ]
-          },
-          {
-            "-QType": "FillUp",
-            "-Heading": "Tick the correct option.",
-            "-defaultMark": "1",
-            "item": [
-              {
-                "-Question": "1.\tWhere do you make drawings in Paint?\r\n\t(a) Colors group      (b) Ribbon     (c) Drawing Area\r\n"
-              },
-              {
-                "-Question": "2.\tRibbon has _____ tabs.\n\t(a) one      (b) two    (c) three\n"
-              },
-              {
-                "-Question": "3.\tTo draw a circle, we use the:\n\t(a) Line tool      (b) Pencil tool   (c) Oval tool\n"
-              },
-              {
-                "-Question": "4.\t _____ key is used to draw a perfect square.\n\t(a) Ctrl      (b) Shift   (c) Enter\n"
               }
             ]
           },
